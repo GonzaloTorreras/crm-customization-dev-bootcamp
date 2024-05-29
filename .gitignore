@@ -1,3 +1,7 @@
 .DS_Store
 .idea
 .zed
+
+# HubSpot config file
+hubspot.config.yml
+.gitignore
